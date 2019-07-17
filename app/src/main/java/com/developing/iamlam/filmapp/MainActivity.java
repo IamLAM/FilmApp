@@ -19,11 +19,40 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Button buttonAvengers=findViewById(R.id.avengers_button);
 
         buttonGravity.setOnClickListener(this);
+        buttonJumanji.setOnClickListener(this);
+        buttonToy.setOnClickListener(this);
+        buttonJurassic.setOnClickListener(this);
+        buttonFantastico.setOnClickListener(this);
+        buttonAvengers.setOnClickListener(this);
+
     }
 
     @Override
     public void onClick(View view) {
         int buttonId=view.getId();
+
+        switch(buttonId){
+
+            case R.id.gravity_button:
+
+            break;
+            case R.id.jumanji_button:
+
+                break;
+            case R.id.toy_story_button:
+
+                break;
+            case R.id.jurassic_button:
+
+                break;
+            case R.id.fantastico_button:
+
+                break;
+            case R.id.avengers_button:
+
+                break;
+
+        }
 
     }
 }
