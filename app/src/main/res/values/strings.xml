@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">FilmApp</string>
-    <string name="inst">Selecciona la película que deseas ver</string>
+    <string name="instrucciones">Selecciona la pelicula que desees ver</string>
 </resources>
