@@ -35,14 +35,17 @@
         >
 
         <Button
+            android:id="@+id/gravity_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="Gravity"
 
+
             />
 
         <Button
+            android:id="@+id/jumanji_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -51,6 +54,7 @@
             />
 
         <Button
+            android:id="@+id/toy_story_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -71,6 +75,7 @@
 
 
         <Button
+            android:id="@+id/jurassic_button"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Jurassic Park"
@@ -89,6 +94,7 @@
         >
 
         <Button
+            android:id="@+id/fantastico_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -97,6 +103,7 @@
 
 
         <Button
+            android:id="@+id/avengers_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
