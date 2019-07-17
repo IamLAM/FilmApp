@@ -1,4 +1,5 @@
 package com.developing.iamlam.filmapp;
+import android.widget.Button;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
